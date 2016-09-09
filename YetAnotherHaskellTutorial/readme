@@ -1,0 +1,6 @@
+Make a new haskell file by writing a filename with a ".hs" extension.
+
+Always ensure it has a module in it.
+
+Run it by typing ghci in the console and loading the file by typing ":load <filename>"
+where <filename> is the file you want to load.
